@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function customers() {
   return (
-    <div>customers</div>
+    <p className='bold'>customers</p>
   )
 }
